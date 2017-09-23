@@ -3,5 +3,5 @@ function getFirstSelector(selector) {
 }
 
 index nestedTarget() {
-  
+  document.getElementById(nested).querySelectorAll(.target)
 }
