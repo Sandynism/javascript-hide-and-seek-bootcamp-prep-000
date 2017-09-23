@@ -1,1 +1,1 @@
-getFirstSelector(selector) 
+index.getFirstSelector(selector) 
