@@ -1,1 +1,1 @@
-index.getFirstSelector(selector) 
+function getFirstSelector(selector) 
