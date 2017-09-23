@@ -1,0 +1,1 @@
+getFirstSelector(selector) 
